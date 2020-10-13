@@ -1,0 +1,99 @@
+2020-10-12 16:24:43,786 - root - INFO - Get Argument for the Type of source
+2020-10-12 16:24:43,786 - root - INFO - Get Argument for the Type of source
+2020-10-12 16:24:43,786 - root - INFO - Get Argument for the Type of source
+2020-10-12 16:24:43,786 - root - INFO - Source File Details: data.csv
+2020-10-12 16:24:43,786 - root - INFO - Source File Details: data.csv
+2020-10-12 16:24:43,786 - root - INFO - Source File Details: data.csv
+2020-10-12 16:24:43,786 - root - INFO - Start Reading Source file: data.csv
+2020-10-12 16:24:43,786 - root - INFO - Start Reading Source file: data.csv
+2020-10-12 16:24:43,786 - root - INFO - Start Reading Source file: data.csv
+2020-10-12 16:25:19,956 - root - INFO - Get Argument for the Type of source
+2020-10-12 16:25:19,956 - root - INFO - Get Argument for the Type of source
+2020-10-12 16:25:19,956 - root - INFO - Get Argument for the Type of source
+2020-10-12 16:25:19,957 - root - INFO - Source File Details: data.csv
+2020-10-12 16:25:19,957 - root - INFO - Source File Details: data.csv
+2020-10-12 16:25:19,957 - root - INFO - Source File Details: data.csv
+2020-10-12 16:25:19,957 - root - INFO - Start Reading Source file: data.csv
+2020-10-12 16:25:19,957 - root - INFO - Start Reading Source file: data.csv
+2020-10-12 16:25:19,957 - root - INFO - Start Reading Source file: data.csv
+2020-10-12 16:25:20,188 - root - INFO - Reading Complete 
+2020-10-12 16:25:20,188 - root - INFO - Reading Complete 
+2020-10-12 16:25:20,188 - root - INFO - Reading Complete 
+2020-10-12 16:25:20,188 - root - INFO - start: Change column time to human readable format- 
+2020-10-12 16:25:20,188 - root - INFO - start: Change column time to human readable format- 
+2020-10-12 16:25:20,188 - root - INFO - start: Change column time to human readable format- 
+2020-10-12 16:25:20,192 - root - INFO -  Success: Change column time to human readable format
+2020-10-12 16:25:20,192 - root - INFO -  Success: Change column time to human readable format
+2020-10-12 16:25:20,192 - root - INFO -  Success: Change column time to human readable format
+2020-10-12 16:25:20,192 - root - INFO - start: Extract Medium
+2020-10-12 16:25:20,192 - root - INFO - start: Extract Medium
+2020-10-12 16:25:20,192 - root - INFO - start: Extract Medium
+2020-10-12 16:25:26,039 - root - INFO - End : Extract Medium
+2020-10-12 16:25:26,039 - root - INFO - End : Extract Medium
+2020-10-12 16:25:26,039 - root - INFO - End : Extract Medium
+2020-10-12 16:25:26,039 - root - INFO - start: Extract Source
+2020-10-12 16:25:26,039 - root - INFO - start: Extract Source
+2020-10-12 16:25:26,039 - root - INFO - start: Extract Source
+2020-10-12 16:25:31,990 - root - INFO - End : Extract Source
+2020-10-12 16:25:31,990 - root - INFO - End : Extract Source
+2020-10-12 16:25:31,990 - root - INFO - End : Extract Source
+2020-10-12 16:25:31,990 - root - INFO - start: Extract Path
+2020-10-12 16:25:31,990 - root - INFO - start: Extract Path
+2020-10-12 16:25:31,990 - root - INFO - start: Extract Path
+2020-10-12 16:25:34,395 - root - INFO - End : Extract Path
+2020-10-12 16:25:34,395 - root - INFO - End : Extract Path
+2020-10-12 16:25:34,395 - root - INFO - End : Extract Path
+2020-10-12 16:25:34,395 - root - INFO - Start : Distinct cout of UTM SOURCE and MEDIDUM
+2020-10-12 16:25:34,395 - root - INFO - Start : Distinct cout of UTM SOURCE and MEDIDUM
+2020-10-12 16:25:34,395 - root - INFO - Start : Distinct cout of UTM SOURCE and MEDIDUM
+2020-10-12 16:25:34,459 - root - INFO - End : Distinct cout of UTM SOURCE & MEDIDUM
+2020-10-12 16:25:34,459 - root - INFO - End : Distinct cout of UTM SOURCE & MEDIDUM
+2020-10-12 16:25:34,459 - root - INFO - End : Distinct cout of UTM SOURCE & MEDIDUM
+2020-10-12 16:25:34,490 - root - INFO - Start : Function execute_metrics
+2020-10-12 16:25:34,490 - root - INFO - Start : Function execute_metrics
+2020-10-12 16:25:34,490 - root - INFO - Start : Function execute_metrics
+2020-10-12 16:25:34,850 - root - INFO - End : Function execute_metrics
+2020-10-12 16:25:34,850 - root - INFO - End : Function execute_metrics
+2020-10-12 16:25:34,850 - root - INFO - End : Function execute_metrics
+2020-10-12 16:25:34,861 - root - INFO - Start :Function: calc_distinctusers_perday
+2020-10-12 16:25:34,861 - root - INFO - Start :Function: calc_distinctusers_perday
+2020-10-12 16:25:34,861 - root - INFO - Start :Function: calc_distinctusers_perday
+2020-10-12 16:25:35,017 - root - INFO - End : calc_distinctusers_perday
+2020-10-12 16:25:35,017 - root - INFO - End : calc_distinctusers_perday
+2020-10-12 16:25:35,017 - root - INFO - End : calc_distinctusers_perday
+2020-10-12 16:25:35,022 - root - INFO - Get Argument for destination
+2020-10-12 16:25:35,022 - root - INFO - Get Argument for destination
+2020-10-12 16:25:35,022 - root - INFO - Get Argument for destination
+2020-10-12 16:25:35,022 - root - INFO - Output logging format
+2020-10-12 16:25:35,022 - root - INFO - Output logging format
+2020-10-12 16:25:35,022 - root - INFO - Output logging format
+2020-10-12 16:25:35,022 - root - INFO - csv
+2020-10-12 16:25:35,022 - root - INFO - csv
+2020-10-12 16:25:35,022 - root - INFO - csv
+2020-10-12 16:25:35,022 - root - INFO - Saving file : top_source_medium
+2020-10-12 16:25:35,022 - root - INFO - Saving file : top_source_medium
+2020-10-12 16:25:35,022 - root - INFO - Saving file : top_source_medium
+2020-10-12 16:25:35,024 - root - INFO - Get Argument for destination
+2020-10-12 16:25:35,024 - root - INFO - Get Argument for destination
+2020-10-12 16:25:35,024 - root - INFO - Get Argument for destination
+2020-10-12 16:25:35,024 - root - INFO - Output logging format
+2020-10-12 16:25:35,024 - root - INFO - Output logging format
+2020-10-12 16:25:35,024 - root - INFO - Output logging format
+2020-10-12 16:25:35,024 - root - INFO - csv
+2020-10-12 16:25:35,024 - root - INFO - csv
+2020-10-12 16:25:35,024 - root - INFO - csv
+2020-10-12 16:25:35,025 - root - INFO - Saving file : distinct_users_batch
+2020-10-12 16:25:35,025 - root - INFO - Saving file : distinct_users_batch
+2020-10-12 16:25:35,025 - root - INFO - Saving file : distinct_users_batch
+2020-10-12 16:25:35,026 - root - INFO - Get Argument for destination
+2020-10-12 16:25:35,026 - root - INFO - Get Argument for destination
+2020-10-12 16:25:35,026 - root - INFO - Get Argument for destination
+2020-10-12 16:25:35,026 - root - INFO - Output logging format
+2020-10-12 16:25:35,026 - root - INFO - Output logging format
+2020-10-12 16:25:35,026 - root - INFO - Output logging format
+2020-10-12 16:25:35,026 - root - INFO - csv
+2020-10-12 16:25:35,026 - root - INFO - csv
+2020-10-12 16:25:35,026 - root - INFO - csv
+2020-10-12 16:25:35,026 - root - INFO - Saving file : distinct_users_day
+2020-10-12 16:25:35,026 - root - INFO - Saving file : distinct_users_day
+2020-10-12 16:25:35,026 - root - INFO - Saving file : distinct_users_day

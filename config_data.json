@@ -1,0 +1,25 @@
+{
+	"data_type": {
+		"api": {
+			"GoogleAnalytics": "https://api.xxxxxxxx",
+			"AdobeAnalytics": "https://api.xxxxxxxxxxx"
+		},
+		"csv": {
+			"utm_data": "data.csv"
+		}
+	},
+
+
+	"out_data_type": {
+		"database": {
+			"mysql": "connection1",
+			"oracle": "connection2",
+			"redshift": "connection2"
+		},
+		"operating_system": {
+			"format": "csv"
+		}
+
+	}
+
+}
