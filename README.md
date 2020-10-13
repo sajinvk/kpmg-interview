@@ -1,12 +1,12 @@
 Programming Language : Python 3.7 
 etl_main.ipynb : The executable file 
 
+Developed in Jupyter notebook . I will use GoogleAnalytics.ipynb to explain the work flow . ipynb file for all moules has been uploaded.
+
+
 ETL :
 
-
-
-
-Actual Python ocde 
+Python ocde 
 
 Python Package Module :
 
